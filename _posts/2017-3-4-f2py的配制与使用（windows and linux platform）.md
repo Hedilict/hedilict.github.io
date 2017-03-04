@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: f2py的配制与使用（windows and linux platform）
 ---
 
 # f2py的配制与使用（windows and linux platform）
