@@ -3,8 +3,6 @@ layout: post
 title: f2py的配制与使用（windows and linux platform）
 ---
 
-# f2py的配制与使用（windows and linux platform）
-
 _f2py(Fortran to Python)_，顾名思义，_f2py_是作为一个『连接』`Fortran`与`Python`这两种语言的工具而存在的。[Fortran](https://www.fortran.com/)是数值计算领域常用的偏底层语言，其运行速度之快，满足了大量数值模拟过程中度计算速度的要求；而[Python](https://www.python.org/)作为一个现代的面向对象的高级语言，有着简洁优美的语法，并且是扩展性最好的语言之一。_f2py_的存在正是为底层语言和高级语言建立了一个桥梁，让我们在继承两种语言的优点的同时，方便了对程序的调试和扩展。
 > 更详细的关于f2py的介绍可以参考其官网[f2py2e](https://sysbio.ioc.ee/projects/f2py2e/)，里面有更详细的说明和背景介绍以及简单地使用方法。
 
