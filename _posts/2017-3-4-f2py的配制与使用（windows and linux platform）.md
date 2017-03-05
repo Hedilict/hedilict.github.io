@@ -45,7 +45,7 @@ pip install numpy
 `gcc`
 
 来测试gcc是否已经被安装；若出现如图的信息，则说明gcc已经被成功安装。
-![enter image description here](https://www.hedilict.com/images/2017-03-02-测试gcc.png)
+![enter image description here](http://www.hedilict.com/images/2017-03-02-测试gcc.png)
 
 否则，则执行命令：
 
@@ -59,8 +59,7 @@ pip install numpy
 
 若出现以下信息，则说明gfortran也被成功安装。
 
-![enter image description here](https://lh3.googleusercontent.com/C6pCZJ-4bpKBZDbfcWyVyd6eh4TcQMJpHkVtqP9Mg9cm59l8-Wtu0zI_9xHY7TNs_ujoSx2c=s0 "2017-03-02 16-12-11屏幕截图.png")
-
+![]({{site.baseurl}}//images/2017-03-02-测试gfortran.png)
 > **Note:** **gfortran**是**gcc**的一部分，详情可参考[gcc/gfortran](https://gcc.gnu.org/fortran/)
 
 
