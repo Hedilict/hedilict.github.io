@@ -72,7 +72,7 @@ pip install numpy
     whereis f2py
     //执行
     f2py
-![enter image description here](lh3.googleusercontent.com/-ngDJpC9NTFc/WLgemdSstSI/AAAAAAAAAKU/lIkDQiK6KogUdfGuY5S4t_-O_Lr1z3V7ACLcB/s0/2017-03-02+21-15-01%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE.png "2017-03-02 21-15-01屏幕截图.png")
+![enter image description here](https://lh3.googleusercontent.com/-ngDJpC9NTFc/WLgemdSstSI/AAAAAAAAAKU/lIkDQiK6KogUdfGuY5S4t_-O_Lr1z3V7ACLcB/s0/2017-03-02+21-15-01%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE.png "2017-03-02 21-15-01屏幕截图.png")
 
 如果出现上图所示情况，则f2py已经安装成功！
 
