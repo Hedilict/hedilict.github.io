@@ -116,14 +116,17 @@ pip install numpy
  安装之前，需要将`Path\Python27`和`Path\Python27\Scripts`添加进windows环境变量。
 
 打开**cmd**或者**PowerShell**，进入到numpy的`.whl`文件所在的目录，执行以下命令：
-
+```
     pip install numpy_xxx.whl
+```
 如果出现以下错误：
-
+```
     Fatal error in launcher: Unable to create process using '"'
+```
 则执行：
-
+```python
     python -m pip install numpy_xxx.whl
+```
 
 > 以上错误解决参考：http://stackoverflow.com/questions/24627525/fatal-error-in-launcher-unable-to-create-process-using-c-program-files-x86
 
