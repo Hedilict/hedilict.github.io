@@ -66,11 +66,13 @@ pip install numpy
 #### 3. f2py的执行与测试
 
 一般来说，经过以上两步后，f2py已经安装成功。可以执行以下命令查看f2py的所在路径以及是否是可执行状态：
-
+```
     //查看f2py所在的路径
     whereis f2py
     //执行
     f2py
+ ```
+ 
 ![enter image description here](https://lh3.googleusercontent.com/-ngDJpC9NTFc/WLgemdSstSI/AAAAAAAAAKU/lIkDQiK6KogUdfGuY5S4t_-O_Lr1z3V7ACLcB/s0/2017-03-02+21-15-01%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE.png "2017-03-02 21-15-01屏幕截图.png")
 
 如果出现上图所示情况，则f2py已经安装成功！
