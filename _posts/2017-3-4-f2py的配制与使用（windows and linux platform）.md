@@ -124,11 +124,11 @@ pip install numpy
     Fatal error in launcher: Unable to create process using '"'
 ```
 则执行：
-```python
+```
     python -m pip install numpy_xxx.whl
 ```
 
-> 以上错误解决参考：http://stackoverflow.com/questions/24627525/fatal-error-in-launcher-unable-to-create-process-using-c-program-files-x86
+> 以上错误解决参考：[http://stackoverflow.com/questions/24627525/fatal-error-in-launcher-unable-to-create-process-using-c-program-files-x86](http://stackoverflow.com/questions/24627525/fatal-error-in-launcher-unable-to-create-process-using-c-program-files-x86)
 
 通过以上步骤便可以成功安装numpy。测试f2py是否成功安装，执行命令：
 
