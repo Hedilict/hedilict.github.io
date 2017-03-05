@@ -9,7 +9,6 @@ _f2py(Fortran to Python)_，顾名思义，_f2py_是作为一个『连接』`For
 > 更详细的关于f2py的介绍可以参考其官网[f2py2e](https://sysbio.ioc.ee/projects/f2py2e/)，里面有更详细的说明和背景介绍以及简单地使用方法。
 
 下面分别介绍_f2py_在windows和linux平台下的安装和使用。
-> asdfa
 
 
 
@@ -34,8 +33,9 @@ pip install numpy
 >  ```
 >
 > 或者
->
-> `pip3 install numpy ###for python3.x`
+>```
+> pip3 install numpy ###for python3.x
+>```
 >
 
 #### 2.  **编译器**的安装
