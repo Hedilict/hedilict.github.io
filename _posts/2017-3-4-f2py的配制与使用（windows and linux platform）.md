@@ -59,7 +59,7 @@ pip install numpy
 
 若出现以下信息，则说明gfortran也被成功安装。
 
-![]({{site.baseurl}}/images/2017-03-02-测试gfortran.png)
+![](http://www.hedilict.com/images/2017-03-02-测试gfortran.png)
 > **Note:** **gfortran**是**gcc**的一部分，详情可参考[gcc/gfortran](https://gcc.gnu.org/fortran/)
 
 
