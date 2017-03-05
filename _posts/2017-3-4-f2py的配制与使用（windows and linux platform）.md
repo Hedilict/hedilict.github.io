@@ -91,7 +91,7 @@ pip install numpy
 
 进入Python，Import该模块，执行以下命令：
 
-![enter image description here](http://www.hedilict.com/images/2017-03-02-测试结果.png")
+![enter image description here](http://www.hedilict.com/images/2017-03-02-测试结果.png)
 
 可以看到，模块**hello**已经调用成功，输出了`hello world`字符串。
 至此，f2py在Linux（测试发行版为[Ubuntu](https://www.ubuntu.com/)）安装成功！
