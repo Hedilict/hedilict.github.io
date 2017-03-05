@@ -180,5 +180,4 @@ pip install numpy
 参考链接：
 
 - [https://scientificcomputingco.blogspot.sg/2013/02/f2py-on-64bit-windows-python27.html](https://scientificcomputingco.blogspot.sg/2013/02/f2py-on-64bit-windows-python27.html)
-
--[ http://stackoverflow.com/questions/24627525/fatal-error-in-launcher-unable-to-create-process-using-c-program-files-x86]( http://stackoverflow.com/questions/24627525/fatal-error-in-launcher-unable-to-create-process-using-c-program-files-x86)
+- [ http://stackoverflow.com/questions/24627525/fatal-error-in-launcher-unable-to-create-process-using-c-program-files-x86]( http://stackoverflow.com/questions/24627525/fatal-error-in-launcher-unable-to-create-process-using-c-program-files-x86)
