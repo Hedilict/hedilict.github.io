@@ -1,7 +1,7 @@
 ---
-published: true
 layout: post
 title: git常用命令的使用
+published: true
 ---
 ## Git常用命令的使用
 
