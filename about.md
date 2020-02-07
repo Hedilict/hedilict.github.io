@@ -9,4 +9,4 @@ This is Jianing Zhang's page.
 
 ### Contact me
 
-[zn950101l@gmail.com](mailto:zn950101l@gmail.com)
+[zn950101@gmail.com](mailto:zn950101@gmail.com)
